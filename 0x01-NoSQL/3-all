@@ -1,0 +1,2 @@
+// list all commands in a collection
+db.school.find()
